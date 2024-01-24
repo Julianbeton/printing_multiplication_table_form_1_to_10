@@ -17,4 +17,6 @@ for i in range(1, 11):
         j = j * i
         print(j, end = " ")
 
+    print ("\033[1;32;40m\t\t")
+
    
